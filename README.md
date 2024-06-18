@@ -2,8 +2,8 @@
 
 Welcome to the Snake and Apple Game, a classic arcade game implemented in Python using the Pygame library. Guide the snake to eat apples and grow, but be careful not to run into the walls or the snake's own body!
 
-![Game Screenshot](./snake.png)
-<img src="screenshots/snake.png" alt="Gameplay Screenshot" width="400" height="300">
+
+<img src="snake.png" alt="Gameplay Screenshot" width="400" height="300">
 
 
 ## 🎮 Features
